@@ -16,6 +16,7 @@ Developed an interactive IBM HR Analytics Dashboard in Power BI to analyze emplo
 4.Implemented dynamic filters for MaritalStatus, EducationField, and BusinessTravel to enable user-driven data exploration and analysis.
 5.Validated all calculations and metrics to ensure data accuracy, then documented KPI questions and insights for GitHub repository upload.
 
-### Dashboard IMG 
-<a href https://github.com/Vaish611/Data-Analysis-Dashboards/commit/8b0dda4f406d0186f8d6839f4774dbb2ddef30e2><a/a>
+<a https://github.com/Vaish611/Data-Analysis-Dashboards/blob/main/IBM%20Data%20Dashboard.png>DASHBOARD<a/a>
+
+
 
