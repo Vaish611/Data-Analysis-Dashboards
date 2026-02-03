@@ -1,3 +1,3 @@
-IBM Data Dashboard
-Developed an interactive IBM HR Analytics Dashboard in Power BI to analyze employee demographics and departmental performance. Built horizontal bar, stacked bar, pie, and line charts to visualize income, employee count, and age-based
-trends. Used Power BI aggregation functions to calculate average income, total employees, gender-wise income, and department headcount. Implemented slicers for Marital Status, Education Field, and Business Travel for dynamic filtering across employee segments. Enhanced data storytelling with professional layout, gender-coded colors, and clear labels for HR decisionmaking.
+# IBM Data Dashboard
+## Project Overview
+Developed an interactive IBM HR Analytics Dashboard in Power BI to analyze employee demographics and departmental performance. Built horizontal bar, stacked bar, pie, and line charts to visualize income, employee count, and age-based trends. Used Power BI aggregation functions to calculate average income, total employees, gender-wise income, and department headcount. Implemented slicers for Marital Status, Education Field, and Business Travel for dynamic filtering across employee segments. Enhanced data storytelling with professional layout, gender-coded colors, and clear labels for HR decisionmaking.
