@@ -16,9 +16,20 @@ Developed an interactive IBM HR Analytics Dashboard in Power BI to analyze emplo
 4.Implemented dynamic filters for MaritalStatus, EducationField, and BusinessTravel to enable user-driven data exploration and analysis.
 5.Validated all calculations and metrics to ensure data accuracy, then documented KPI questions and insights for GitHub repository upload.
 
+### Project Insights
+1.Gender Pay Gap - Males earn significantly more across all departments, with the largest gap in R&D (59.10% vs 40.90%) and Sales (57.54% vs 42.46%).
+2.R&D Dominance - R&D accounts for 65.37% of employees and the highest payroll, making it the organization's core department.
+3.Compensation Trends - Managers earn ~17K while entry-level roles earn ~3K; monthly rates peak at mid-career (ages 25-35) then decline after 55.
+4.Job Satisfaction - Life Sciences (42.26%) and Human Resources (31.14%) fields show highest satisfaction levels.
+
 ### Dashboard
 <img width="1344" height="738" alt="IBM Data Dashboard" src="https://github.com/user-attachments/assets/002e9f5f-bd6a-4a7b-8858-d7663a018fee" />
  
 <a href= "https://github.com/Vaish611/Data-Analysis-Dashboards/blob/main/IBM%20data.csv"> Dataset Link </a> 
+
+### Conclusion 
+The dashboard reveals critical gender pay inequity requiring immediate HR attention, R&D as the cost-driving department, and age-based compensation patterns that may create retention risks for senior talent approaching retirement.
+
+
 
 
